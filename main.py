@@ -21,7 +21,7 @@ class MainPage(webapp2.RequestHandler):
         self.response.write("""
           <html>
             <body style="background-color: white">
-              <CENTER><H1>Hello, WHITE!</H1><CENTER>
+              <CENTER><H1> <p style="font-family: "Arial Black", Gadget, sans-serif>Hello, WHITE!</H1><CENTER>
             </body>
           </html>""")
 
