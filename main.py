@@ -29,7 +29,7 @@ class MainPage(webapp2.RequestHandler):
             <br>
             <br>
             <br>
-              <CENTER><p style="font-family:san-serif font-size:40px">Hello, WHITE!<CENTER>
+              <CENTER><p style="font-family:san-serif font-size:100px">Hello, WHITE!<CENTER>
             </body>
           </html>""")
 
